@@ -13,7 +13,7 @@ function calculateAge() {
   if (result < 0 || isNaN(result)) {
     return alert("Please enter your birthday");
   }
-
+  // const res'
   resultEl.textContent = `Your age is ${result} years old`;
 }
 
