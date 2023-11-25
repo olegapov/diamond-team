@@ -14,6 +14,7 @@ function calculateAge() {
     return alert("Please enter your birthday");
   }
   // const res'
+
   resultEl.textContent = `Your age is ${result} years old`;
 }
 
